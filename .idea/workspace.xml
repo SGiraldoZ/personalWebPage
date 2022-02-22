@@ -5,6 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6a9b3fa0-eba5-4ee0-9ff8-8c5f73f176d5" name="Changes" comment="Skills width changes">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -57,7 +58,8 @@
       <option name="presentableId" value="Default" />
       <updated>1645441478316</updated>
       <workItem from="1645441480067" duration="594000" />
-      <workItem from="1645482325449" duration="16143000" />
+      <workItem from="1645482325449" duration="16592000" />
+      <workItem from="1645535583786" duration="393000" />
     </task>
     <task id="LOCAL-00001" summary="Skills width changes">
       <created>1645512357483</created>
@@ -66,7 +68,14 @@
       <option name="project" value="LOCAL" />
       <updated>1645512357483</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Skills width changes">
+      <created>1645512537196</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1645512537196</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
